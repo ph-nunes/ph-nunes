@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://github.com/SEU_USUARIO_AQUI">
-    <img src="https://readme-typing-svg.demolab.com/?font=Inter&weight=400&size=16&duration=3000&pause=1000&color=2EA043&center=true&vCenter=true&width=500&lines=Estagi%C3%A1rio+de+Automa%C3%A7%C3%A3o;P%C3%B3s-graduando+em+Engenharia+de+Software;Cursando+em+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;Desenvolvedor+Java+e+n8n" alt="Typing Animation" />
+    <img src="https://readme-typing-svg.demolab.com/?font=Inter&weight=400&size=16&duration=3000&pause=1000&color=2EA043&center=true&vCenter=true&width=500&lines=Estagi%C3%A1rio+de+Automa%C3%A7%C3%A3o;P%C3%B3s-graduando+em+Engenharia+de+Software;Cursando+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;Desenvolvedor+Java+e+n8n" alt="Typing Animation" />
   </a>
 </div>
 
