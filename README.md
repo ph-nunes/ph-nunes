@@ -11,7 +11,7 @@
 ### 👨‍💻 Sobre mim
 - 🎓 Formado em **Análise e Desenvolvimento de Sistemas**.
 - 🎓 Pós-graduado em **Engenharia de Software**.
-- 📚 Cursando **Ciência da Compotação**
+- 📚  Cursando **Ciência da Compotação**
 - 💼 Atuando como **Estagiário de Automação** na COGTIVE.
 - ⚙️ Foco no desenvolvimento de integrações com inteligência artificial, automação de fluxos corporativos e desenvolvimento backend.
 
