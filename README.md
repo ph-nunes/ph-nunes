@@ -78,13 +78,6 @@ Desenvolvimento de fluxos automatizados para análises e avaliações de tarefas
 
 **Tecnologias:** n8n • APIs • Automação • Inteligência Artificial
 
----
-
-## 📊 GitHub
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ph-nunes&theme=github_dark" width="95%" />
-</p>
 
 ---
 
