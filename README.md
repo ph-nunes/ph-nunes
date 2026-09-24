@@ -31,23 +31,20 @@ Atuo com **automação de processos, integrações e desenvolvimento de soluçõ
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
+### 🛠️ Tecnologias e Ferramentas
 
-### Backend
+#### Backend
 
-<p>
-  <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring%20Boot-000000?style=for-the-badge&logo=springboot&logoColor=6DB33F" />
-  <img src="https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=csharp&logoColor=239120" />
-  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,spring,cs,js" height="60" />
 </p>
 
-### Automação & IA
+#### Automação & IA
 
-<p>
-  <img src="https://img.shields.io/badge/n8n-000000?style=for-the-badge&logo=n8n&logoColor=EA4B71" />
-  <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=chainlink&logoColor=375BD2" />
-  <img src="https://img.shields.io/badge/AI%20Integrations-000000?style=for-the-badge&logo=openai&logoColor=white" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=n8n" height="60" />
+  <img src="https://cdn.simpleicons.org/langchain/white" height="60" />
+  <img src="https://cdn.simpleicons.org/openai/white" height="60" />
 </p>
 
 ---
@@ -58,7 +55,7 @@ Atuo com **automação de processos, integrações e desenvolvimento de soluçõ
 
 Arquitetura backend desenvolvida em **Java + Spring Boot**, voltada para a construção de serviços financeiros corporativos.
 
-**Tecnologias:** Java • Spring Boot • REST API
+**Tecnologias:** Java • Spring Boot • REST API • SQL
 
 ---
 
@@ -72,7 +69,7 @@ Sistema desenvolvido para gerenciamento de tickets de suporte e geração de ide
 
 ### 🤖 Automação de Atendimento
 
-Desenvolvimento de fluxos automatizados para atendimento e integração com **WhatsApp Business**, buscando reduzir tarefas manuais e melhorar processos empresariais.
+Desenvolvimento de fluxos automatizados para análises e avaliações de tarefas com **OpenAI**, buscando reduzir trazer insights valiosos para dentro de todas as áreas da empresa e melhorar processos de forma geral.
 
 **Tecnologias:** n8n • APIs • Automação • Inteligência Artificial
 
@@ -98,6 +95,6 @@ Desenvolvimento de fluxos automatizados para atendimento e integração com **Wh
 ```text
 🔹 Aprofundando conhecimentos em Java e Spring Boot
 🔹 Desenvolvendo automações com n8n
-🔹 Explorando Inteligência Artificial e LLMs
+🔹 Explorando AI Agents e LLMs
 🔹 Estudando arquitetura e engenharia de software
 🔹 Construindo integrações entre sistemas e APIs
