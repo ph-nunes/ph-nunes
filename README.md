@@ -36,16 +36,21 @@ Atuo com **automação de processos, integrações e desenvolvimento de soluçõ
 #### Backend
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,spring,cs,js" height="60" />
+  <img src="https://skillicons.dev/icons?i=java,spring,js,mysql" height="60" alt="Java, Spring Boot, JavaScript e MySQL" />
+</p>
+
+#### Frontend
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css" height="60" alt="HTML e CSS" />
 </p>
 
 #### Automação & IA
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=n8n" height="60" />
-  <img src="https://cdn.simpleicons.org/langchain/white" height="60" />
-  <img src="https://cdn.simpleicons.org/openai/white" height="60" />
-</p>
+  <img src="https://cdn.simpleicons.org/n8n/EA4B71" height="60" alt="n8n" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/openai.svg" height="60" alt="OpenAI" />
+  <img src="https://cdn.simpleicons.org/claude/D97757" height="60" alt="Claude" />
 
 ---
 
@@ -78,14 +83,7 @@ Desenvolvimento de fluxos automatizados para análises e avaliações de tarefas
 ## 📊 GitHub
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=ph-nunes&show_icons=true&theme=github_dark&hide_border=true&count_private=true"
-    height="165"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ph-nunes&layout=compact&theme=github_dark&hide_border=true"
-    height="165"
-  />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ph-nunes&theme=github_dark" width="95%" />
 </p>
 
 ---
