@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou o Phelipe Nunes 👋</h1>
+<h1 align="center">Olá, sou Phelipe Nunes 👋</h1>
 
 <h3 align="center">
   Desenvolvedor Backend • Automação • Inteligência Artificial
